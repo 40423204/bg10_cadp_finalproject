@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2017Fall CADP&amp;CP (虎尾科大MDE) - Course</title><link href="./" rel="alternate"></link><link href="./feeds/course.atom.xml" rel="self"></link><id>./</id><updated>2018-01-12T13:30:00+08:00</updated><entry><title>3D列印的实体测试</title><link href="./w18-2.html" rel="alternate"></link><published>2018-01-12T13:30:00+08:00</published><updated>2018-01-12T13:30:00+08:00</updated><author><name>40423204</name></author><id>tag:None,2018-01-12:./w18-2.html</id><summary type="html">&lt;p&gt;3D列印的实体测试&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2017Fall CADP&amp;CP (虎尾科大MDE) - Course</title><link href="https://40423204.github.io/bg10_cadp_finalproject/blog/" rel="alternate"></link><link href="https://40423204.github.io/bg10_cadp_finalproject/blog/feeds/course.atom.xml" rel="self"></link><id>https://40423204.github.io/bg10_cadp_finalproject/blog/</id><updated>2018-01-12T13:30:00+08:00</updated><entry><title>3D列印的实体测试</title><link href="https://40423204.github.io/bg10_cadp_finalproject/blog/w18-2.html" rel="alternate"></link><published>2018-01-12T13:30:00+08:00</published><updated>2018-01-12T13:30:00+08:00</updated><author><name>40423204</name></author><id>tag:40423204.github.io,2018-01-12:/bg10_cadp_finalproject/blog/w18-2.html</id><summary type="html">&lt;p&gt;3D列印的实体测试&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;3D列印的实体测试&lt;/p&gt;
 
 
 &lt;h3&gt;由于轨道还在印，我先放上运球机构的实际测试视频，有点小瑕疵但基本可以运球&lt;/h3&gt;
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/4RnFQ3afxV8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;</content><category term="2017fall"></category><category term="CADP"></category></entry><entry><title>期末简报</title><link href="./w18-1.html" rel="alternate"></link><published>2018-01-11T13:30:00+08:00</published><updated>2018-01-11T13:30:00+08:00</updated><author><name>40423204</name></author><id>tag:None,2018-01-11:./w18-1.html</id><summary type="html">&lt;p&gt;期末的简报&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/4RnFQ3afxV8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;</content><category term="2017fall"></category><category term="CADP"></category></entry><entry><title>期末简报</title><link href="https://40423204.github.io/bg10_cadp_finalproject/blog/w18-1.html" rel="alternate"></link><published>2018-01-11T13:30:00+08:00</published><updated>2018-01-11T13:30:00+08:00</updated><author><name>40423204</name></author><id>tag:40423204.github.io,2018-01-11:/bg10_cadp_finalproject/blog/w18-1.html</id><summary type="html">&lt;p&gt;期末的简报&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;期末的简报&lt;/p&gt;
 
 
@@ -15,7 +15,7 @@
 &lt;iframe src="./../data/stlviewer/viewstl.html?src=./../finalexam/40423204.stl" width="800" height="600"&gt;&lt;/iframe&gt;
 
 &lt;h3&gt;onshape的共享链接：&lt;a href="https://cad.onshape.com/documents/91cac6d3a2c695de78821d96/w/100faa538b34f65e02c7dedf/e/6ba0a1ec77864d37f7b5b7b0"&gt;onshape&lt;/a&gt;&amp;lt;&amp;gt;&lt;/h3&gt;
-&lt;p&gt;心得：后半学期主要就绘制了钢球运动系统并模拟，从模拟中我更加深刻的了解到之前想的很多理所当然的东西实际上错误连篇，都需要修改；这学期每堂课都在做东西让我学会了很多操作，也发现只要用心去做，其实并不难，onshape的绘图和vrep的模拟操作都熟练了很多，也成功地完成了机构的设计，其实还有很多地方能改进，我会慢慢的去修改的，总之一学期的学习能收获才是最重要的。&lt;/p&gt;</content><category term="2017fall"></category><category term="CADP"></category></entry><entry><title>onshape教学影片的报告</title><link href="./w18.html" rel="alternate"></link><published>2018-01-09T13:30:00+08:00</published><updated>2018-01-09T13:30:00+08:00</updated><author><name>40423204</name></author><id>tag:None,2018-01-09:./w18.html</id><summary type="html">&lt;p&gt;onshape心得&lt;/p&gt;
+&lt;p&gt;心得：后半学期主要就绘制了钢球运动系统并模拟，从模拟中我更加深刻的了解到之前想的很多理所当然的东西实际上错误连篇，都需要修改；这学期每堂课都在做东西让我学会了很多操作，也发现只要用心去做，其实并不难，onshape的绘图和vrep的模拟操作都熟练了很多，也成功地完成了机构的设计，其实还有很多地方能改进，我会慢慢的去修改的，总之一学期的学习能收获才是最重要的。&lt;/p&gt;</content><category term="2017fall"></category><category term="CADP"></category></entry><entry><title>onshape教学影片的报告</title><link href="https://40423204.github.io/bg10_cadp_finalproject/blog/w18.html" rel="alternate"></link><published>2018-01-09T13:30:00+08:00</published><updated>2018-01-09T13:30:00+08:00</updated><author><name>40423204</name></author><id>tag:40423204.github.io,2018-01-09:/bg10_cadp_finalproject/blog/w18.html</id><summary type="html">&lt;p&gt;onshape心得&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;onshape心得&lt;/p&gt;
 
 
@@ -23,7 +23,7 @@
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/VfFl3b-3BEU" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;
 
 &lt;h3&gt;第二个视频：&lt;/h3&gt;
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/Ll9NNuXFM8s" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;</content><category term="2017fall"></category><category term="CADP"></category></entry><entry><title>2017 Fall CADP 第十七週</title><link href="./2017-fall-cadp-w17.html" rel="alternate"></link><published>2018-01-05T13:30:00+08:00</published><updated>2018-01-05T13:30:00+08:00</updated><author><name>40423204</name></author><id>tag:None,2018-01-05:./2017-fall-cadp-w17.html</id><summary type="html">&lt;p&gt;第十七周心得&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/Ll9NNuXFM8s" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;</content><category term="2017fall"></category><category term="CADP"></category></entry><entry><title>2017 Fall CADP 第十七週</title><link href="https://40423204.github.io/bg10_cadp_finalproject/blog/2017-fall-cadp-w17.html" rel="alternate"></link><published>2018-01-05T13:30:00+08:00</published><updated>2018-01-05T13:30:00+08:00</updated><author><name>40423204</name></author><id>tag:40423204.github.io,2018-01-05:/bg10_cadp_finalproject/blog/2017-fall-cadp-w17.html</id><summary type="html">&lt;p&gt;第十七周心得&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;第十七周心得&lt;/p&gt;
 
 
@@ -38,7 +38,7 @@
 &lt;p&gt;再加大力矩和速度时就能成功运行&lt;/p&gt;
 &lt;iframe src="./../data/stlviewer/viewstl.html?src=./../finalexam/007.stl" width="800" height="600"&gt;&lt;/iframe&gt;
 
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/zK4nIPvbLW8" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;</content><category term="2017fall"></category><category term="CADP"></category></entry><entry><title>2017 Fall CADP 第十六週</title><link href="./2017-fall-cadp-w16.html" rel="alternate"></link><published>2017-12-29T13:30:00+08:00</published><updated>2017-12-29T13:30:00+08:00</updated><author><name>40423204</name></author><id>tag:None,2017-12-29:./2017-fall-cadp-w16.html</id><summary type="html">&lt;p&gt;第十六周心得&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/zK4nIPvbLW8" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;</content><category term="2017fall"></category><category term="CADP"></category></entry><entry><title>2017 Fall CADP 第十六週</title><link href="https://40423204.github.io/bg10_cadp_finalproject/blog/2017-fall-cadp-w16.html" rel="alternate"></link><published>2017-12-29T13:30:00+08:00</published><updated>2017-12-29T13:30:00+08:00</updated><author><name>40423204</name></author><id>tag:40423204.github.io,2017-12-29:/bg10_cadp_finalproject/blog/2017-fall-cadp-w16.html</id><summary type="html">&lt;p&gt;第十六周心得&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;第十六周心得&lt;/p&gt;
 
 
@@ -47,19 +47,19 @@
 &lt;iframe src="./../data/stlviewer/viewstl.html?src=./../finalexam/003.stl" width="800" height="600"&gt;&lt;/iframe&gt;
 
 &lt;p&gt;vrep:轨道需要改进，还要加个跷跷板挡住小球&lt;/p&gt;
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/Kqt9lrdeC5Y" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;</content><category term="2017fall"></category><category term="CADP"></category></entry><entry><title>2017 Fall CADP 第十五週</title><link href="./2017-fall-cadp-w15.html" rel="alternate"></link><published>2017-12-22T13:30:00+08:00</published><updated>2017-12-22T13:30:00+08:00</updated><author><name>40423204</name></author><id>tag:None,2017-12-22:./2017-fall-cadp-w15.html</id><summary type="html">&lt;p&gt;第十五周心得&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/Kqt9lrdeC5Y" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;</content><category term="2017fall"></category><category term="CADP"></category></entry><entry><title>2017 Fall CADP 第十五週</title><link href="https://40423204.github.io/bg10_cadp_finalproject/blog/2017-fall-cadp-w15.html" rel="alternate"></link><published>2017-12-22T13:30:00+08:00</published><updated>2017-12-22T13:30:00+08:00</updated><author><name>40423204</name></author><id>tag:40423204.github.io,2017-12-22:/bg10_cadp_finalproject/blog/2017-fall-cadp-w15.html</id><summary type="html">&lt;p&gt;第十五周心得&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;第十五周心得&lt;/p&gt;
 
 
 &lt;p&gt;个人的成品，暂时不会变了&lt;/p&gt;
 &lt;p&gt;下面是onshape的绘制:&lt;/p&gt;
-&lt;iframe src="./../data/stlviewer/viewstl.html?src=./../finalexam/003.stl" width="800" height="600"&gt;&lt;/iframe&gt;</content><category term="2017fall"></category><category term="CADP"></category></entry><entry><title>2017 Fall CADP 第十四週</title><link href="./2017-fall-cadp-w14.html" rel="alternate"></link><published>2017-12-15T13:30:00+08:00</published><updated>2017-12-15T13:30:00+08:00</updated><author><name>40423204</name></author><id>tag:None,2017-12-15:./2017-fall-cadp-w14.html</id><summary type="html">&lt;p&gt;第十四周心得&lt;/p&gt;
+&lt;iframe src="./../data/stlviewer/viewstl.html?src=./../finalexam/003.stl" width="800" height="600"&gt;&lt;/iframe&gt;</content><category term="2017fall"></category><category term="CADP"></category></entry><entry><title>2017 Fall CADP 第十四週</title><link href="https://40423204.github.io/bg10_cadp_finalproject/blog/2017-fall-cadp-w14.html" rel="alternate"></link><published>2017-12-15T13:30:00+08:00</published><updated>2017-12-15T13:30:00+08:00</updated><author><name>40423204</name></author><id>tag:40423204.github.io,2017-12-15:/bg10_cadp_finalproject/blog/2017-fall-cadp-w14.html</id><summary type="html">&lt;p&gt;第十四周心得&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;第十四周心得&lt;/p&gt;
 
 
 &lt;p&gt;完善了连杆机构，并绘制了简单轨道&lt;/p&gt;
 &lt;p&gt;下面是onshape的绘制:&lt;/p&gt;
-&lt;iframe src="./../data/stlviewer/viewstl.html?src=./../finalexam/002.stl" width="800" height="600"&gt;&lt;/iframe&gt;</content><category term="2017fall"></category><category term="CADP"></category></entry><entry><title>2017 Fall CADP 第十三週</title><link href="./2017-fall-cadp-w13.html" rel="alternate"></link><published>2017-12-08T13:30:00+08:00</published><updated>2017-12-08T13:30:00+08:00</updated><author><name>40423204</name></author><id>tag:None,2017-12-08:./2017-fall-cadp-w13.html</id><summary type="html">&lt;p&gt;第十三周心得&lt;/p&gt;
+&lt;iframe src="./../data/stlviewer/viewstl.html?src=./../finalexam/002.stl" width="800" height="600"&gt;&lt;/iframe&gt;</content><category term="2017fall"></category><category term="CADP"></category></entry><entry><title>2017 Fall CADP 第十三週</title><link href="https://40423204.github.io/bg10_cadp_finalproject/blog/2017-fall-cadp-w13.html" rel="alternate"></link><published>2017-12-08T13:30:00+08:00</published><updated>2017-12-08T13:30:00+08:00</updated><author><name>40423204</name></author><id>tag:40423204.github.io,2017-12-08:/bg10_cadp_finalproject/blog/2017-fall-cadp-w13.html</id><summary type="html">&lt;p&gt;第十三周心得&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;第十三周心得&lt;/p&gt;
 
 
@@ -67,17 +67,17 @@
 &lt;p&gt;&lt;img src="./../data/images/001.png"width="500" height="290"&gt;&lt;/img&gt;&lt;/p&gt;
 &lt;p&gt;大致结构就是运用如图的连杆机构托起小球运到高处。&lt;/p&gt;
 &lt;p&gt;下面是onshape的绘制:&lt;/p&gt;
-&lt;iframe src="./../data/stlviewer/viewstl.html?src=./../finalexam/001.stl" width="800" height="600"&gt;&lt;/iframe&gt;</content><category term="2017fall"></category><category term="CADP"></category></entry><entry><title>2017 Fall CADP 第十二週</title><link href="./2017-fall-cadp-w12.html" rel="alternate"></link><published>2017-12-01T13:30:00+08:00</published><updated>2017-12-01T13:30:00+08:00</updated><author><name>40423204</name></author><id>tag:None,2017-12-01:./2017-fall-cadp-w12.html</id><summary type="html">&lt;p&gt;第十二周心得&lt;/p&gt;
+&lt;iframe src="./../data/stlviewer/viewstl.html?src=./../finalexam/001.stl" width="800" height="600"&gt;&lt;/iframe&gt;</content><category term="2017fall"></category><category term="CADP"></category></entry><entry><title>2017 Fall CADP 第十二週</title><link href="https://40423204.github.io/bg10_cadp_finalproject/blog/2017-fall-cadp-w12.html" rel="alternate"></link><published>2017-12-01T13:30:00+08:00</published><updated>2017-12-01T13:30:00+08:00</updated><author><name>40423204</name></author><id>tag:40423204.github.io,2017-12-01:/bg10_cadp_finalproject/blog/2017-fall-cadp-w12.html</id><summary type="html">&lt;p&gt;第十二周心得&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;第十二周心得&lt;/p&gt;
 
 
 &lt;p&gt;建立自己的&lt;a href="https://github.com/40423204/40423204_cadp_final"&gt;gihub&lt;/a&gt;仓储(期末用)&lt;/p&gt;
 &lt;p&gt;了解期末简报的几个要求&lt;/p&gt;
-&lt;p&gt;讨论钢球运动系统的大致&lt;/p&gt;</content><category term="2017fall"></category><category term="CADP"></category></entry><entry><title>2017 Fall CADP 第十一週</title><link href="./2017-fall-cadp-w11.html" rel="alternate"></link><published>2017-11-24T13:30:00+08:00</published><updated>2017-11-24T13:30:00+08:00</updated><author><name>40423204</name></author><id>tag:None,2017-11-24:./2017-fall-cadp-w11.html</id><summary type="html">&lt;p&gt;第十一周心得&lt;/p&gt;
+&lt;p&gt;讨论钢球运动系统的大致&lt;/p&gt;</content><category term="2017fall"></category><category term="CADP"></category></entry><entry><title>2017 Fall CADP 第十一週</title><link href="https://40423204.github.io/bg10_cadp_finalproject/blog/2017-fall-cadp-w11.html" rel="alternate"></link><published>2017-11-24T13:30:00+08:00</published><updated>2017-11-24T13:30:00+08:00</updated><author><name>40423204</name></author><id>tag:40423204.github.io,2017-11-24:/bg10_cadp_finalproject/blog/2017-fall-cadp-w11.html</id><summary type="html">&lt;p&gt;第十一周心得&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;第十一周心得&lt;/p&gt;
 
 
-&lt;p&gt;运动会放假,木有上课,日常划水&lt;/p&gt;</content><category term="2017fall"></category><category term="CADP"></category></entry><entry><title>2017 Fall CADP 第十週</title><link href="./2017-fall-cadp-w10.html" rel="alternate"></link><published>2017-11-17T13:30:00+08:00</published><updated>2017-11-17T13:30:00+08:00</updated><author><name>40423204</name></author><id>tag:None,2017-11-17:./2017-fall-cadp-w10.html</id><summary type="html">&lt;p&gt;第十周心得&lt;/p&gt;
+&lt;p&gt;运动会放假,木有上课,日常划水&lt;/p&gt;</content><category term="2017fall"></category><category term="CADP"></category></entry><entry><title>2017 Fall CADP 第十週</title><link href="https://40423204.github.io/bg10_cadp_finalproject/blog/2017-fall-cadp-w10.html" rel="alternate"></link><published>2017-11-17T13:30:00+08:00</published><updated>2017-11-17T13:30:00+08:00</updated><author><name>40423204</name></author><id>tag:40423204.github.io,2017-11-17:/bg10_cadp_finalproject/blog/2017-fall-cadp-w10.html</id><summary type="html">&lt;p&gt;第十周心得&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;第十周心得&lt;/p&gt;
 
 
@@ -86,7 +86,7 @@
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/naSw1cmwVY8" frameborder="0" gesture="media" allowfullscreen&gt;&lt;/iframe&gt;
 
 &lt;p&gt;钢球运动系统大致想法设计：&lt;/p&gt;
-&lt;iframe src="./../data/stlviewer/viewstl.html?src=./../ball/ball.stl" width="800" height="600"&gt;&lt;/iframe&gt;</content><category term="2017fall"></category><category term="CADP"></category></entry><entry><title>期中简报</title><link href="./exam-40423204.html" rel="alternate"></link><published>2017-11-07T13:30:00+08:00</published><updated>2017-11-07T13:30:00+08:00</updated><author><name>40423204</name></author><id>tag:None,2017-11-07:./exam-40423204.html</id><summary type="html">&lt;p&gt;期中简报&lt;/p&gt;
+&lt;iframe src="./../data/stlviewer/viewstl.html?src=./../ball/ball.stl" width="800" height="600"&gt;&lt;/iframe&gt;</content><category term="2017fall"></category><category term="CADP"></category></entry><entry><title>期中简报</title><link href="https://40423204.github.io/bg10_cadp_finalproject/blog/exam-40423204.html" rel="alternate"></link><published>2017-11-07T13:30:00+08:00</published><updated>2017-11-07T13:30:00+08:00</updated><author><name>40423204</name></author><id>tag:40423204.github.io,2017-11-07:/bg10_cadp_finalproject/blog/exam-40423204.html</id><summary type="html">&lt;p&gt;期中简报&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;期中简报&lt;/p&gt;
 
 
@@ -112,7 +112,7 @@
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/ekjq0GIB05A" frameborder="0" gesture="media" allowfullscreen&gt;&lt;/iframe&gt;
 
 &lt;h2&gt;长的简报：&lt;/h2&gt;
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/-ofpKHwe38k" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</content><category term="2017fall"></category><category term="CADP"></category></entry><entry><title>2017 Fall CADP 第八週</title><link href="./2017-fall-cadp-w8.html" rel="alternate"></link><published>2017-11-03T13:30:00+08:00</published><updated>2017-11-03T13:30:00+08:00</updated><author><name>40423204</name></author><id>tag:None,2017-11-03:./2017-fall-cadp-w8.html</id><summary type="html">&lt;p&gt;2017 年 Fall 的課程進行到接近一半, 本週整理計算機程式與電腦輔助設計實習的課程相關內容, 說明各種工具的特性與學習重點.&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/-ofpKHwe38k" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</content><category term="2017fall"></category><category term="CADP"></category></entry><entry><title>2017 Fall CADP 第八週</title><link href="https://40423204.github.io/bg10_cadp_finalproject/blog/2017-fall-cadp-w8.html" rel="alternate"></link><published>2017-11-03T13:30:00+08:00</published><updated>2017-11-03T13:30:00+08:00</updated><author><name>40423204</name></author><id>tag:40423204.github.io,2017-11-03:/bg10_cadp_finalproject/blog/2017-fall-cadp-w8.html</id><summary type="html">&lt;p&gt;2017 年 Fall 的課程進行到接近一半, 本週整理計算機程式與電腦輔助設計實習的課程相關內容, 說明各種工具的特性與學習重點.&lt;/p&gt;
 &lt;p&gt;PS:下周上课前记得完成简报&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2017 年 Fall 的課程進行到接近一半, 本週整理計算機程式與電腦輔助設計實習的課程相關內容, 說明各種工具的特性與學習重點.&lt;/p&gt;
 &lt;p&gt;PS:下周上课前记得完成简报&lt;/p&gt;
@@ -179,7 +179,7 @@
 
 &lt;h3&gt;CADP V-rep 教學影片&lt;/h3&gt;
 &lt;p&gt;利用 Python 程式控制 V-rep 動態模型&lt;/p&gt;
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/SQont-mTnfM" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</content><category term="2017fall"></category><category term="CADP"></category></entry><entry><title>電腦輔助設計實習第七週學習心得</title><link href="./40423204-w7-exam.html" rel="alternate"></link><published>2017-10-27T13:30:00+08:00</published><updated>2017-10-27T13:30:00+08:00</updated><author><name>40423204</name></author><id>tag:None,2017-10-27:./40423204-w7-exam.html</id><summary type="html">&lt;p&gt;心得&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/SQont-mTnfM" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</content><category term="2017fall"></category><category term="CADP"></category></entry><entry><title>電腦輔助設計實習第七週學習心得</title><link href="https://40423204.github.io/bg10_cadp_finalproject/blog/40423204-w7-exam.html" rel="alternate"></link><published>2017-10-27T13:30:00+08:00</published><updated>2017-10-27T13:30:00+08:00</updated><author><name>40423204</name></author><id>tag:40423204.github.io,2017-10-27:/bg10_cadp_finalproject/blog/40423204-w7-exam.html</id><summary type="html">&lt;p&gt;心得&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;心得&lt;/p&gt;
 
 
@@ -203,7 +203,7 @@
 &lt;iframe src="./../data/stlviewer/viewstl.html?src=./../exam1/40423204-nutcracker.stl" width="800" height="600"&gt;&lt;/iframe&gt;
 
 &lt;p&gt;錄製的影片：&lt;/p&gt;
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/QZyBO4B-kDY" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</content><category term="2017fall"></category><category term="CADP"></category></entry><entry><title>连杆机构</title><link href="./2017-fall-cadp-w6-1.html" rel="alternate"></link><published>2017-10-21T13:30:00+08:00</published><updated>2017-10-21T13:30:00+08:00</updated><author><name>40423204</name></author><id>tag:None,2017-10-21:./2017-fall-cadp-w6-1.html</id><summary type="html">&lt;p&gt;连杆机构的零件绘制以及组装&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/QZyBO4B-kDY" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</content><category term="2017fall"></category><category term="CADP"></category></entry><entry><title>连杆机构</title><link href="https://40423204.github.io/bg10_cadp_finalproject/blog/2017-fall-cadp-w6-1.html" rel="alternate"></link><published>2017-10-21T13:30:00+08:00</published><updated>2017-10-21T13:30:00+08:00</updated><author><name>40423204</name></author><id>tag:40423204.github.io,2017-10-21:/bg10_cadp_finalproject/blog/2017-fall-cadp-w6-1.html</id><summary type="html">&lt;p&gt;连杆机构的零件绘制以及组装&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;连杆机构的零件绘制以及组装&lt;/p&gt;
 
 
@@ -229,7 +229,7 @@
 
 &lt;iframe src="./../data/stlviewer/viewstl.html?src=./../nutcracker/piston.stl" width="800" height="600"&gt;&lt;/iframe&gt;
 
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/QBuFpf46qsQ" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</content><category term="2017fall"></category><category term="CADP"></category></entry><entry><title>2017 Fall CADP 第六週</title><link href="./2017-fall-cadp-w6.html" rel="alternate"></link><published>2017-10-20T13:30:00+08:00</published><updated>2017-10-20T13:30:00+08:00</updated><author><name>40423204</name></author><id>tag:None,2017-10-20:./2017-fall-cadp-w6.html</id><summary type="html">&lt;p&gt;本週起開始使用 Eric6 IDE 建立 PyQt5 視窗程式, 計算器程式的圖形介面將從 Qt Designer 中, 以滑鼠及視覺化模式建立, 之後再轉為 .py 程式後, 與隨後的程式邏輯進行互動. 請使用者自行下載 &lt;a href="https://link.springer.com/book/10.1007/978-1-4842-2385-7"&gt;Lean Python&lt;/a&gt; 電子書與&lt;a href="https://github.com/Apress/lean-python"&gt;範例程式&lt;/a&gt;配合學習.&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/QBuFpf46qsQ" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</content><category term="2017fall"></category><category term="CADP"></category></entry><entry><title>2017 Fall CADP 第六週</title><link href="https://40423204.github.io/bg10_cadp_finalproject/blog/2017-fall-cadp-w6.html" rel="alternate"></link><published>2017-10-20T13:30:00+08:00</published><updated>2017-10-20T13:30:00+08:00</updated><author><name>40423204</name></author><id>tag:40423204.github.io,2017-10-20:/bg10_cadp_finalproject/blog/2017-fall-cadp-w6.html</id><summary type="html">&lt;p&gt;本週起開始使用 Eric6 IDE 建立 PyQt5 視窗程式, 計算器程式的圖形介面將從 Qt Designer 中, 以滑鼠及視覺化模式建立, 之後再轉為 .py 程式後, 與隨後的程式邏輯進行互動. 請使用者自行下載 &lt;a href="https://link.springer.com/book/10.1007/978-1-4842-2385-7"&gt;Lean Python&lt;/a&gt; 電子書與&lt;a href="https://github.com/Apress/lean-python"&gt;範例程式&lt;/a&gt;配合學習.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;本週起開始使用 Eric6 IDE 建立 PyQt5 視窗程式, 計算器程式的圖形介面將從 Qt Designer 中, 以滑鼠及視覺化模式建立, 之後再轉為 .py 程式後, 與隨後的程式邏輯進行互動. 請使用者自行下載 &lt;a href="https://link.springer.com/book/10.1007/978-1-4842-2385-7"&gt;Lean Python&lt;/a&gt; 電子書與&lt;a href="https://github.com/Apress/lean-python"&gt;範例程式&lt;/a&gt;配合學習.&lt;/p&gt;
 
 
@@ -1084,7 +1084,7 @@ class Editor():
     def load_script(self, evt):
         _name = evt.target.value + '?foo=%s' % time.time()
         self.editor.setValue(open(_name).read())
-&lt;/pre&gt;</content><category term="2017fall"></category><category term="CADP"></category></entry><entry><title>八個零件</title><link href="./2017-fall-cadp-w5-2.html" rel="alternate"></link><published>2017-10-14T13:30:00+08:00</published><updated>2017-10-14T13:30:00+08:00</updated><author><name>40423204</name></author><id>tag:None,2017-10-14:./2017-fall-cadp-w5-2.html</id><summary type="html">&lt;p&gt;用 Solvesapce 畫的八個零組件及影片&lt;/p&gt;
+&lt;/pre&gt;</content><category term="2017fall"></category><category term="CADP"></category></entry><entry><title>八個零件</title><link href="https://40423204.github.io/bg10_cadp_finalproject/blog/2017-fall-cadp-w5-2.html" rel="alternate"></link><published>2017-10-14T13:30:00+08:00</published><updated>2017-10-14T13:30:00+08:00</updated><author><name>40423204</name></author><id>tag:40423204.github.io,2017-10-14:/bg10_cadp_finalproject/blog/2017-fall-cadp-w5-2.html</id><summary type="html">&lt;p&gt;用 Solvesapce 畫的八個零組件及影片&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;用 Solvesapce 畫的八個零組件及影片&lt;/p&gt;
 
 
@@ -1126,7 +1126,7 @@ class Editor():
 &lt;p&gt;8.piston&lt;/p&gt;
 &lt;iframe src="./../data/stlviewer/viewstl.html?src=./../project/piston.stl" width="800" height="600"&gt;&lt;/iframe&gt;
 
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/Eaw569P6lII" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</content><category term="2017fall"></category><category term="CADP"></category></entry><entry><title>2017 Fall CADP 第五週</title><link href="./2017-fall-cadp-w5.html" rel="alternate"></link><published>2017-10-13T13:30:00+08:00</published><updated>2017-10-13T13:30:00+08:00</updated><author><name>40423204</name></author><id>tag:None,2017-10-13:./2017-fall-cadp-w5.html</id><summary type="html">&lt;p&gt;本週起開始利用 Solvesapce 建立 &lt;a href="./../../../raw/ProEMechanism.pdf?name=a48a8c10af4e636b37ff9c8bc6e98ff00af0ac44"&gt;Nutcracker&lt;/a&gt; 系統的零組件, 並且將所完成的零組件顯示在網誌中, 並提供 .slvs 檔案下載.&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/Eaw569P6lII" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</content><category term="2017fall"></category><category term="CADP"></category></entry><entry><title>2017 Fall CADP 第五週</title><link href="https://40423204.github.io/bg10_cadp_finalproject/blog/2017-fall-cadp-w5.html" rel="alternate"></link><published>2017-10-13T13:30:00+08:00</published><updated>2017-10-13T13:30:00+08:00</updated><author><name>40423204</name></author><id>tag:40423204.github.io,2017-10-13:/bg10_cadp_finalproject/blog/2017-fall-cadp-w5.html</id><summary type="html">&lt;p&gt;本週起開始利用 Solvesapce 建立 &lt;a href="./../../../raw/ProEMechanism.pdf?name=a48a8c10af4e636b37ff9c8bc6e98ff00af0ac44"&gt;Nutcracker&lt;/a&gt; 系統的零組件, 並且將所完成的零組件顯示在網誌中, 並提供 .slvs 檔案下載.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;本週起開始利用 Solvesapce 建立 &lt;a href="./../../../raw/ProEMechanism.pdf?name=a48a8c10af4e636b37ff9c8bc6e98ff00af0ac44"&gt;Nutcracker&lt;/a&gt; 系統的零組件, 並且將所完成的零組件顯示在網誌中, 並提供 .slvs 檔案下載.&lt;/p&gt;
 
 
@@ -1137,7 +1137,7 @@ class Editor():
 &lt;iframe src="./../data/stlviewer/viewstl.html?src=./../projet/nutcracker/nutcracker.stl" width="800" height="600"&gt;&lt;/iframe&gt;
 
 &lt;p&gt;各零件間的運動模擬, 可以仿 &lt;a href="https://stemkoski.github.io/Three.js/Model-Animation-Control.html"&gt;https://stemkoski.github.io/Three.js/Model-Animation-Control.html&lt;/a&gt; (&lt;a href="https://github.com/stemkoski/stemkoski.github.com"&gt;倉儲&lt;/a&gt;) 及 &lt;a href="https://threejs.org/examples/webgl_animation_keyframes_json.html"&gt;網際零組件動態模擬技術&lt;/a&gt;達成.&lt;/p&gt;
-&lt;iframe src="https://threejs.org/examples/webgl_animation_keyframes_json.html" width="800" height="600"&gt;&lt;/iframe&gt;</content><category term="2017fall"></category><category term="CADP"></category></entry><entry><title>2017 Fall CADP 第四週</title><link href="./2017-fall-cadp-w4.html" rel="alternate"></link><published>2017-10-06T13:30:00+08:00</published><updated>2017-10-06T13:30:00+08:00</updated><author><name>40423204</name></author><id>tag:None,2017-10-06:./2017-fall-cadp-w4.html</id><summary type="html">&lt;p&gt;本週開始將利用 Python3 與 PyQt5 建立一個簡單的計算器, 其中會使用基本的 Python3 程式語法, 也必須了解 Python3 物件導向與視窗事件驅動程式的基本概念.&lt;/p&gt;
+&lt;iframe src="https://threejs.org/examples/webgl_animation_keyframes_json.html" width="800" height="600"&gt;&lt;/iframe&gt;</content><category term="2017fall"></category><category term="CADP"></category></entry><entry><title>2017 Fall CADP 第四週</title><link href="https://40423204.github.io/bg10_cadp_finalproject/blog/2017-fall-cadp-w4.html" rel="alternate"></link><published>2017-10-06T13:30:00+08:00</published><updated>2017-10-06T13:30:00+08:00</updated><author><name>40423204</name></author><id>tag:40423204.github.io,2017-10-06:/bg10_cadp_finalproject/blog/2017-fall-cadp-w4.html</id><summary type="html">&lt;p&gt;本週開始將利用 Python3 與 PyQt5 建立一個簡單的計算器, 其中會使用基本的 Python3 程式語法, 也必須了解 Python3 物件導向與視窗事件驅動程式的基本概念.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;本週開始將利用 Python3 與 PyQt5 建立一個簡單的計算器, 其中會使用基本的 Python3 程式語法, 也必須了解 Python3 物件導向與視窗事件驅動程式的基本概念.&lt;/p&gt;
 
 
@@ -1327,7 +1327,7 @@ doc['clear_container'].bind('click',clear_container)
 &lt;/div&gt;
 &lt;div id="common"&gt;&lt;/div&gt;
 &lt;!-- container 主要提供網際繪圖用之畫布 --&gt;
-&lt;div id="container"&gt;&lt;/div&gt;&lt;/p&gt;</content><category term="2017fall"></category><category term="CADP"></category></entry><entry><title>2017 Fall CADP 第三週</title><link href="./2017-fall-cadp-w3.html" rel="alternate"></link><published>2017-09-29T15:00:00+08:00</published><updated>2017-09-29T15:00:00+08:00</updated><author><name>40423204</name></author><id>tag:None,2017-09-29:./2017-fall-cadp-w3.html</id><summary type="html">&lt;p&gt;心得&lt;/p&gt;
+&lt;div id="container"&gt;&lt;/div&gt;&lt;/p&gt;</content><category term="2017fall"></category><category term="CADP"></category></entry><entry><title>2017 Fall CADP 第三週</title><link href="https://40423204.github.io/bg10_cadp_finalproject/blog/2017-fall-cadp-w3.html" rel="alternate"></link><published>2017-09-29T15:00:00+08:00</published><updated>2017-09-29T15:00:00+08:00</updated><author><name>40423204</name></author><id>tag:40423204.github.io,2017-09-29:/bg10_cadp_finalproject/blog/2017-fall-cadp-w3.html</id><summary type="html">&lt;p&gt;心得&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;心得&lt;/p&gt;
 
 
@@ -1335,7 +1335,7 @@ doc['clear_container'].bind('click',clear_container)
 &lt;p&gt;應該有一個自學信念&lt;/p&gt;
 &lt;p&gt;有付出才會有收穫 &lt;/p&gt;
 &lt;p&gt;應當熱愛所學 、多元思考 、開放心胸 、不要放棄 &lt;/p&gt;
-&lt;p&gt;終身學習 、勤作筆記、教導別人、互相觀摩&lt;/p&gt;</content><category term="2017fall"></category><category term="CADP"></category></entry><entry><title>传错了</title><link href="./2017-fall-cadp-w0.html" rel="alternate"></link><published>2017-09-22T15:54:00+08:00</published><updated>2017-09-22T15:54:00+08:00</updated><author><name>40423204</name></author><id>tag:None,2017-09-22:./2017-fall-cadp-w0.html</id><summary type="html">&lt;p&gt;本學期起各班透過一台 Ubuntu 16.04 主機, 建立 Fossil SCM 伺服器, 且每一學員發放一個 Fossil SCM 倉儲, 其中各學員可以利用 Wiki 與 Technote 紀錄學習資料外, 還可以將靜態網誌與簡報檔案放入 Files 資料區.&lt;/p&gt;
+&lt;p&gt;終身學習 、勤作筆記、教導別人、互相觀摩&lt;/p&gt;</content><category term="2017fall"></category><category term="CADP"></category></entry><entry><title>传错了</title><link href="https://40423204.github.io/bg10_cadp_finalproject/blog/2017-fall-cadp-w0.html" rel="alternate"></link><published>2017-09-22T15:54:00+08:00</published><updated>2017-09-22T15:54:00+08:00</updated><author><name>40423204</name></author><id>tag:40423204.github.io,2017-09-22:/bg10_cadp_finalproject/blog/2017-fall-cadp-w0.html</id><summary type="html">&lt;p&gt;本學期起各班透過一台 Ubuntu 16.04 主機, 建立 Fossil SCM 伺服器, 且每一學員發放一個 Fossil SCM 倉儲, 其中各學員可以利用 Wiki 與 Technote 紀錄學習資料外, 還可以將靜態網誌與簡報檔案放入 Files 資料區.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;本學期起各班透過一台 Ubuntu 16.04 主機, 建立 Fossil SCM 伺服器, 且每一學員發放一個 Fossil SCM 倉儲, 其中各學員可以利用 Wiki 與 Technote 紀錄學習資料外, 還可以將靜態網誌與簡報檔案放入 Files 資料區.&lt;/p&gt;
 
 
@@ -1439,7 +1439,7 @@ server.quit()
 &lt;p&gt;二甲電腦輔助設計實習: &lt;a href="https://cadpa.kmol.info"&gt;https://cadpa.kmol.info&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;二乙電腦輔助設計實習: &lt;a href="https://cadpb.kmol.info"&gt;https://cadpb.kmol.info&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;一甲計算機程式: &lt;a href="https://cpa.kmol.info"&gt;https://cpa.kmol.info&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;一乙計算機程式: &lt;a href="https://cpb.kmol.info"&gt;https://cpb.kmol.info&lt;/a&gt;&lt;/p&gt;</content><category term="2017fall"></category><category term="CADP"></category></entry><entry><title>2017 Fall CADP 第二週</title><link href="./2017-fall-cadp-w2.html" rel="alternate"></link><published>2017-09-22T15:54:00+08:00</published><updated>2017-09-22T15:54:00+08:00</updated><author><name>40423204</name></author><id>tag:None,2017-09-22:./2017-fall-cadp-w2.html</id><summary type="html">&lt;p&gt;本學期起各班透過一台 Ubuntu 16.04 主機, 建立 Fossil SCM 伺服器, 且每一學員發放一個 Fossil SCM 倉儲, 其中各學員可以利用 Wiki 與 Technote 紀錄學習資料外, 還可以將靜態網誌與簡報檔案放入 Files 資料區.&lt;/p&gt;
+&lt;p&gt;一乙計算機程式: &lt;a href="https://cpb.kmol.info"&gt;https://cpb.kmol.info&lt;/a&gt;&lt;/p&gt;</content><category term="2017fall"></category><category term="CADP"></category></entry><entry><title>2017 Fall CADP 第二週</title><link href="https://40423204.github.io/bg10_cadp_finalproject/blog/2017-fall-cadp-w2.html" rel="alternate"></link><published>2017-09-22T15:54:00+08:00</published><updated>2017-09-22T15:54:00+08:00</updated><author><name>40423204</name></author><id>tag:40423204.github.io,2017-09-22:/bg10_cadp_finalproject/blog/2017-fall-cadp-w2.html</id><summary type="html">&lt;p&gt;本學期起各班透過一台 Ubuntu 16.04 主機, 建立 Fossil SCM 伺服器, 且每一學員發放一個 Fossil SCM 倉儲, 其中各學員可以利用 Wiki 與 Technote 紀錄學習資料外, 還可以將靜態網誌與簡報檔案放入 Files 資料區.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;本學期起各班透過一台 Ubuntu 16.04 主機, 建立 Fossil SCM 伺服器, 且每一學員發放一個 Fossil SCM 倉儲, 其中各學員可以利用 Wiki 與 Technote 紀錄學習資料外, 還可以將靜態網誌與簡報檔案放入 Files 資料區.&lt;/p&gt;
 
 

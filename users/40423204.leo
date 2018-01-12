@@ -23,7 +23,7 @@
 </v>
 <v t="yen.20170108171733.3"><vh>@edit README.md</vh></v>
 <v t="yen.20170108171733.4"><vh>@edit .gitignore</vh></v>
-<v t="yen.20170108171733.5"><vh>Pelican 設定</vh>
+<v t="yen.20170108171733.5" a="E"><vh>Pelican 設定</vh>
 <v t="leo.20170912145121.1" a="E"><vh>近端</vh>
 <v t="yen.20170108171733.6"><vh>@edit local_publishconf.py</vh></v>
 </v>
